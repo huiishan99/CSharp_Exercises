@@ -1,0 +1,15 @@
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.deps.json
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.runtimeconfig.json
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.dll
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.AssemblyInfoInputs.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.AssemblyInfo.cs
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.sourcelink.json
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.dll
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\obj\Debug\net8.0\refint\ConsoleHelloWorld.dll
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.genruntimeconfig.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ConsoleHelloWorld\obj\Debug\net8.0\ref\ConsoleHelloWorld.dll

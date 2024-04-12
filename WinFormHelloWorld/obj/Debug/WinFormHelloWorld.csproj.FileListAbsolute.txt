@@ -1,0 +1,10 @@
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WinFormHelloWorld\bin\Debug\WinFormHelloWorld.exe.config
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WinFormHelloWorld\bin\Debug\WinFormHelloWorld.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WinFormHelloWorld\bin\Debug\WinFormHelloWorld.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.csproj.AssemblyReference.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.Form1.resources
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.Properties.Resources.resources
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.csproj.GenerateResource.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.pdb

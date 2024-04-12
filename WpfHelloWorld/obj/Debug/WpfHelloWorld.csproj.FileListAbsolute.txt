@@ -1,0 +1,15 @@
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\bin\Debug\WpfHelloWorld.exe.config
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\bin\Debug\WpfHelloWorld.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\bin\Debug\WpfHelloWorld.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.AssemblyReference.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\obj\Debug\App.g.cs
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\obj\Debug\WpfHelloWorld_MarkupCompile.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\obj\Debug\WpfHelloWorld_MarkupCompile.lref
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\obj\Debug\MainWindow.baml
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\obj\Debug\WpfHelloWorld.g.resources
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\obj\Debug\WpfHelloWorld.Properties.Resources.resources
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.GenerateResource.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\obj\Debug\WpfHelloWorld.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WpfHelloWorld\obj\Debug\WpfHelloWorld.pdb
