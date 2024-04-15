@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\HuiShan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

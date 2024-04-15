@@ -1,0 +1,7 @@
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ClassAndInstance\bin\Debug\ClassAndInstance.exe.config
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ClassAndInstance\bin\Debug\ClassAndInstance.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ClassAndInstance\bin\Debug\ClassAndInstance.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ClassAndInstance\obj\Debug\ClassAndInstance.csproj.AssemblyReference.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ClassAndInstance\obj\Debug\ClassAndInstance.csproj.CoreCompileInputs.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ClassAndInstance\obj\Debug\ClassAndInstance.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\ClassAndInstance\obj\Debug\ClassAndInstance.pdb

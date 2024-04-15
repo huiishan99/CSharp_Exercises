@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D0351BC2-64FF-4CDB-8F46-1D56E802E379}|ConsoleHelloWorld.csproj|c:\\users\\huishan\\documents\\github\\csharpexercises\\consolehelloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0351BC2-64FF-4CDB-8F46-1D56E802E379}|ConsoleHelloWorld.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0351BC2-64FF-4CDB-8F46-1D56E802E379}|ConsoleHelloWorld.csproj|c:\\users\\huishan\\documents\\github\\csharpexercises\\consolehelloworld\\consolehelloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0351BC2-64FF-4CDB-8F46-1D56E802E379}|ConsoleHelloWorld.csproj|solutionrelative:consolehelloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleHelloWorld",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\ConsoleHelloWorld\\ConsoleHelloWorld.csproj",
+              "RelativeDocumentMoniker": "ConsoleHelloWorld.csproj",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\ConsoleHelloWorld\\ConsoleHelloWorld.csproj",
+              "RelativeToolTip": "ConsoleHelloWorld.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T04:50:05.258Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\ConsoleHelloWorld\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T07:56:22.167Z",
               "EditorCaption": ""

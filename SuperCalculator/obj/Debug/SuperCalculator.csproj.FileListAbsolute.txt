@@ -1,0 +1,6 @@
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\SuperCalculator\bin\Debug\SuperCalculator.dll
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\SuperCalculator\bin\Debug\SuperCalculator.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\SuperCalculator\obj\Debug\SuperCalculator.csproj.AssemblyReference.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\SuperCalculator\obj\Debug\SuperCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\SuperCalculator\obj\Debug\SuperCalculator.dll
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\SuperCalculator\obj\Debug\SuperCalculator.pdb

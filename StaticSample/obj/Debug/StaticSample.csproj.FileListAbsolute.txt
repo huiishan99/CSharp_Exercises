@@ -1,0 +1,7 @@
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\StaticSample\bin\Debug\StaticSample.exe.config
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\StaticSample\bin\Debug\StaticSample.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\StaticSample\bin\Debug\StaticSample.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\StaticSample\obj\Debug\StaticSample.csproj.AssemblyReference.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\StaticSample\obj\Debug\StaticSample.csproj.CoreCompileInputs.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\StaticSample\obj\Debug\StaticSample.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\StaticSample\obj\Debug\StaticSample.pdb

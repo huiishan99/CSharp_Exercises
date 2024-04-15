@@ -1,0 +1,7 @@
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\MethodSample\bin\Debug\MethodSample.exe.config
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\MethodSample\bin\Debug\MethodSample.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\MethodSample\bin\Debug\MethodSample.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\MethodSample\obj\Debug\MethodSample.csproj.AssemblyReference.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\MethodSample\obj\Debug\MethodSample.csproj.CoreCompileInputs.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\MethodSample\obj\Debug\MethodSample.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\MethodSample\obj\Debug\MethodSample.pdb

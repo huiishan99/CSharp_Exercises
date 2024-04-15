@@ -1,0 +1,14 @@
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\obj\Debug\003-HelloWorld.csproj.AssemblyReference.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\obj\Debug\003-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\bin\Debug\003-HelloWorld.exe.config
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\bin\Debug\003-HelloWorld.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\bin\Debug\003-HelloWorld.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\obj\Debug\003-HelloWorld.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\obj\Debug\003-HelloWorld.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\bin\Debug\EntityFramework.dll
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\bin\Debug\SuperCalculator.dll
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\bin\Debug\SuperCalculator.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\bin\Debug\EntityFramework.xml
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\003-HelloWorld\obj\Debug\003-Hell.7EEB2DEB.Up2Date

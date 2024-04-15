@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\",
+  "WorkspaceRootPath": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|c:\\users\\huishan\\documents\\c# projects\\helloworld\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|c:\\users\\huishan\\documents\\c# projects\\helloworld\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|c:\\users\\huishan\\documents\\c# projects\\helloworld\\helloworld.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|solutionrelative:helloworld.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|c:\\users\\huishan\\documents\\c# projects\\helloworld\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|c:\\users\\huishan\\documents\\c# projects\\helloworld\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|c:\\users\\huishan\\documents\\github\\csharpexercises\\helloworld\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|c:\\users\\huishan\\documents\\c# projects\\helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|c:\\users\\huishan\\documents\\github\\csharpexercises\\helloworld\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|c:\\users\\huishan\\documents\\github\\csharpexercises\\helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|solutionrelative:helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|c:\\users\\huishan\\documents\\github\\csharpexercises\\helloworld\\helloworld.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|solutionrelative:helloworld.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|c:\\users\\huishan\\documents\\github\\csharpexercises\\helloworld\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|c:\\users\\huishan\\documents\\github\\csharpexercises\\helloworld\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E788D63-3C25-4A87-9CC2-4886E85F3EE6}|HelloWorld.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,19 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\App.xaml",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-03T04:37:48.717Z",
@@ -54,11 +54,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\AssemblyInfo.cs",
               "RelativeToolTip": "AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,11 +67,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HelloWorld",
-              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\HelloWorld.csproj",
+              "DocumentIndex": 2,
+              "Title": "HelloWorld.csproj",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\HelloWorld.csproj",
               "RelativeDocumentMoniker": "HelloWorld.csproj",
-              "ToolTip": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\HelloWorld.csproj",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\HelloWorld.csproj",
               "RelativeToolTip": "HelloWorld.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -80,11 +80,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HelloWorld",
-              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\HelloWorld.csproj",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\HelloWorld.csproj",
               "RelativeDocumentMoniker": "HelloWorld.csproj",
-              "ToolTip": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\HelloWorld.csproj",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\HelloWorld.csproj",
               "RelativeToolTip": "HelloWorld.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-03T04:37:25.412Z",
@@ -92,11 +92,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-03T04:36:41.62Z",
@@ -104,16 +104,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\HuiShan\\Documents\\C# projects\\HelloWorld\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\HelloWorld\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAwBkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T04:36:40.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T04:36:40.167Z"
             }
           ]
         }

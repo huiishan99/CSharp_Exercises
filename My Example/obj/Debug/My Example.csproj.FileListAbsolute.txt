@@ -1,0 +1,7 @@
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\My Example\bin\Debug\My Example.exe.config
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\My Example\bin\Debug\My Example.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\My Example\bin\Debug\My Example.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\My Example\obj\Debug\My Example.csproj.AssemblyReference.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\My Example\obj\Debug\My Example.csproj.CoreCompileInputs.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\My Example\obj\Debug\My Example.exe
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\My Example\obj\Debug\My Example.pdb
