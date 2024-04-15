@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:21:59] Emulator config file set to C:\Users\HuiShan\Documents\GitHub\CSharpExercises\CloudHelloWorld\csx\Debug\roles\SayHello\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:21:59] DiagnosticsStoreRootPath set to: C:\Users\HuiShan\AppData\Local\dftmp\Resources\e224d8aa-0226-4e51-9309-1ab73c459948
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:21:59] Loading config file: C:\Users\HuiShan\Documents\GitHub\CSharpExercises\CloudHelloWorld\csx\Debug\roles\SayHello\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:21:59] Config file to read: C:\Users\HuiShan\Documents\GitHub\CSharpExercises\CloudHelloWorld\csx\Debug\roles\SayHello\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:21:59] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:21:59] Emulator config file set to C:\Users\HuiShan\Documents\GitHub\CSharpExercises\CloudHelloWorld\csx\Debug\roles\SayHello\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:21:59] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:21:59] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:21:59] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:21:59] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:21:59] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:21:59] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:22:00] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:22:00] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:22:00] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:23:10] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [2024/4/15 4:23:10] DiagnosticPlugin exited with code 0

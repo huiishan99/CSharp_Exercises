@@ -1,0 +1,114 @@
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Starting DiagnosticPlugin.exe DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5
+DiagnosticsPlugin.exe Error: 0 : [2024/4/15 4:22:00] Failed to save IIS Directory state
+DiagnosticsPlugin.exe Error: 0 : [2024/4/15 4:22:00] System.Runtime.InteropServices.COMException (0x80040154): 检索 COM 类工厂中 CLSID 为 {2B72133B-3F5B-4602-8952-803546CE3344} 的组件失败，原因是出现以下错误: 80040154 没有注册类 (异常来自 HRESULT:0x80040154 (REGDB_E_CLASSNOTREG))。
+   在 System.Runtime.Remoting.RemotingServices.AllocateUninitializedObject(RuntimeType objectType)
+   在 System.Runtime.Remoting.Activation.ActivationServices.CreateInstance(RuntimeType serverType)
+   在 System.Runtime.Remoting.Activation.ActivationServices.IsCurrentContextOK(RuntimeType serverType, Object[] props, Boolean bNewObj)
+   在 System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   在 System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.Activator.CreateInstance[T]()
+   在 Microsoft.Web.Administration.ConfigurationManager.CreateAdminManager[TClass,TInterface](WebConfigurationMap webConfigMap, Boolean isAdminConfig, Boolean isRedirectionConfig)
+   在 Microsoft.Web.Administration.ConfigurationManager.CreateWritableAdminManager(WebConfigurationMap webConfigMap, String configPathToEdit, Boolean isAdminConfig, Boolean isRedirectionConfig)
+   在 Microsoft.Web.Administration.ConfigurationManager.CreateConfiguration(WebConfigurationMap configMap, String configPathToEdit, Boolean isAdminConfig, Boolean isRedirectionConfig)
+   在 Microsoft.Web.Administration.ConfigurationManager.GetConfiguration(String rawConfigurationPath, String cacheKey, Boolean isAdminConfig, Boolean isRedirectionConfig)
+   在 Microsoft.Web.Administration.ConfigurationManager.GetApplicationHostConfiguration()
+   在 Microsoft.Web.Administration.ServerManager.SitesSectionCreator()
+   在 Microsoft.Web.Administration.Lazy.Initialize[T](T& target, CreateInstanceDelegate`1 valueFactory)
+   在 Microsoft.Web.Administration.ServerManager.SitesCollectionCreator()
+   在 Microsoft.Web.Administration.Lazy.Initialize[T](T& target, CreateInstanceDelegate`1 valueFactory)
+   在 Microsoft.Azure.Plugins.Plugin.DiagnosticsPluginManager.SaveIISDirectoryState()
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Starting DiagnosticsPlugin
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Emulator config file set to C:\Users\HuiShan\Documents\GitHub\CSharpExercises\CloudHelloWorld\csx\Debug\roles\SayHello\approot\diagnostics.wadcfgx
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] DiagnosticsStoreRootPath set to: C:\Users\HuiShan\AppData\Local\dftmp\Resources\e224d8aa-0226-4e51-9309-1ab73c459948
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Loading config file: C:\Users\HuiShan\Documents\GitHub\CSharpExercises\CloudHelloWorld\csx\Debug\roles\SayHello\approot\diagnostics.wadcfgx
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Config file to read: C:\Users\HuiShan\Documents\GitHub\CSharpExercises\CloudHelloWorld\csx\Debug\roles\SayHello\approot\diagnostics.wadcfgx
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Checking VM Type
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Emulator config file set to C:\Users\HuiShan\Documents\GitHub\CSharpExercises\CloudHelloWorld\csx\Debug\roles\SayHello\approot\diagnostics.wadcfgx
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Extension set to Emulator Mode
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Reading XML configuration file
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Bypassing private config decryption
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] WadCfg is provided in initial configuration. Using that to initialize Diagnostics.
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] <PublicConfig xmlns="http://schemas.microsoft.com/ServiceHosting/2010/10/DiagnosticsConfiguration">
+  <WadCfg>
+    <DiagnosticMonitorConfiguration overallQuotaInMB="4096">
+      <DiagnosticInfrastructureLogs scheduledTransferLogLevelFilter="Error" />
+      <Logs scheduledTransferPeriod="PT1M" scheduledTransferLogLevelFilter="Error" />
+      <Directories scheduledTransferPeriod="PT1M">
+        <IISLogs containerName="wad-iis-logfiles" />
+        <FailedRequestLogs containerName="wad-failedrequestlogs" />
+      </Directories>
+      <WindowsEventLog scheduledTransferPeriod="PT1M">
+        <DataSource name="Application!*[System[(Level=1 or Level=2 or Level=3)]]" />
+        <DataSource name="Windows Azure!*[System[(Level=1 or Level=2 or Level=3 or Level=4)]]" />
+      </WindowsEventLog>
+      <CrashDumps containerName="wad-crashdumps" dumpType="Mini">
+        <CrashDumpConfiguration processName="WaIISHost.exe" />
+        <CrashDumpConfiguration processName="WaWorkerHost.exe" />
+        <CrashDumpConfiguration processName="w3wp.exe" />
+      </CrashDumps>
+      <PerformanceCounters scheduledTransferPeriod="PT1M">
+        <PerformanceCounterConfiguration counterSpecifier="\Memory\Available MBytes" sampleRate="PT3M" />
+        <PerformanceCounterConfiguration counterSpecifier="\Web Service(_Total)\ISAPI Extension Requests/sec" sampleRate="PT3M" />
+        <PerformanceCounterConfiguration counterSpecifier="\Web Service(_Total)\Bytes Total/Sec" sampleRate="PT3M" />
+        <PerformanceCounterConfiguration counterSpecifier="\ASP.NET Applications(__Total__)\Requests/Sec" sampleRate="PT3M" />
+        <PerformanceCounterConfiguration counterSpecifier="\ASP.NET Applications(__Total__)\Errors Total/Sec" sampleRate="PT3M" />
+        <PerformanceCounterConfiguration counterSpecifier="\ASP.NET\Requests Queued" sampleRate="PT3M" />
+        <PerformanceCounterConfiguration counterSpecifier="\ASP.NET\Requests Rejected" sampleRate="PT3M" />
+        <PerformanceCounterConfiguration counterSpecifier="\Processor(_Total)\% Processor Time" sampleRate="PT3M" />
+      </PerformanceCounters>
+    </DiagnosticMonitorConfiguration>
+  </WadCfg>
+  <StorageAccount>devstoreaccount1</StorageAccount>
+</PublicConfig>
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Private setting is loaded
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Is config json/xml loaded
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Checking if configuration needs to be fetched from the storage account and doing so if needed.
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Successfully created checkpoint file C:\Users\HuiShan\AppData\Local\dftmp\Resources\e224d8aa-0226-4e51-9309-1ab73c459948\WAD0105\Configuration\Checkpoint.txt
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Will use local resource directory C:\Users\HuiShan\AppData\Local\dftmp\Resources\e224d8aa-0226-4e51-9309-1ab73c459948\WAD0105
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Will use endpoint https://core.windows.net for storage.
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Exception in creating the ServerManager; is IIS installed?
+ Error:System.Runtime.InteropServices.COMException (0x80040154): 检索 COM 类工厂中 CLSID 为 {2B72133B-3F5B-4602-8952-803546CE3344} 的组件失败，原因是出现以下错误: 80040154 没有注册类 (异常来自 HRESULT:0x80040154 (REGDB_E_CLASSNOTREG))。
+   在 System.Runtime.Remoting.RemotingServices.AllocateUninitializedObject(RuntimeType objectType)
+   在 System.Runtime.Remoting.Activation.ActivationServices.CreateInstance(RuntimeType serverType)
+   在 System.Runtime.Remoting.Activation.ActivationServices.IsCurrentContextOK(RuntimeType serverType, Object[] props, Boolean bNewObj)
+   在 System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   在 System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.Activator.CreateInstance[T]()
+   在 Microsoft.Web.Administration.ConfigurationManager.CreateAdminManager[TClass,TInterface](WebConfigurationMap webConfigMap, Boolean isAdminConfig, Boolean isRedirectionConfig)
+   在 Microsoft.Web.Administration.ConfigurationManager.CreateWritableAdminManager(WebConfigurationMap webConfigMap, String configPathToEdit, Boolean isAdminConfig, Boolean isRedirectionConfig)
+   在 Microsoft.Web.Administration.ConfigurationManager.CreateConfiguration(WebConfigurationMap configMap, String configPathToEdit, Boolean isAdminConfig, Boolean isRedirectionConfig)
+   在 Microsoft.Web.Administration.ConfigurationManager.GetConfiguration(String rawConfigurationPath, String cacheKey, Boolean isAdminConfig, Boolean isRedirectionConfig)
+   在 Microsoft.Web.Administration.ConfigurationManager.GetApplicationHostConfiguration()
+   在 Microsoft.Web.Administration.ServerManager.SitesSectionCreator()
+   在 Microsoft.Web.Administration.Lazy.Initialize[T](T& target, CreateInstanceDelegate`1 valueFactory)
+   在 Microsoft.Web.Administration.ServerManager.SitesCollectionCreator()
+   在 Microsoft.Web.Administration.Lazy.Initialize[T](T& target, CreateInstanceDelegate`1 valueFactory)
+   在 Microsoft.Azure.Plugins.Plugin.WadConfigProcessor.AddDirectories(EventsType mdsEvents, Directories wadDirectories)
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Running in emulator mode, crash dumps not enabled
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] Checking to see if Application Insights extension needs to be configured.
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:22:00] In emulator mode and using devstore updating XStoreAccount info, command line args: -LocalPath "C:\Users\HuiShan\AppData\Local\dftmp\Resources\e224d8aa-0226-4e51-9309-1ab73c459948\WAD0105"  -ConfigFile "C:\Users\HuiShan\AppData\Local\dftmp\Resources\e224d8aa-0226-4e51-9309-1ab73c459948\WAD0105\Configuration\MaConfig.xml" -ShutDownEvent WADDM-ShutDown-a881ed7401cd410891be8771dc961905  -TotalShutDownEvent WADDM-TotalShutDown-a881ed7401cd410891be8771dc961905 -InitializedEvent WADM-StartUp-a881ed7401cd410891be8771dc961905 -parent 14352 -events -wadVer1v5 -UseProxyServer -XStoreAccounts WadAccount#true#devstoreaccount1#Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==#http://127.0.0.1:10002#http://127.0.0.1:10001#http://127.0.0.1:10000
+DiagnosticsPlugin.exe Error: 0 : [2024/4/15 4:22:30] Microsoft.Cis.Monitoring.Query.QueryException: ErrorFail
+   在 Microsoft.Cis.Monitoring.Query.QueryLocalTable..ctor(String TableName, String TablePath)
+   在 ApplicationInsightsExtension.MATableReader.ReadTableRecords(String tableName, String tablePath, DateTime startTime, DateTime endTime)
+   在 Microsoft.Azure.Plugins.Diagnostics.dll.MAStatusWriter.UpdateStatusReport(Object sender, ElapsedEventArgs e)
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:23:00] MonAgentHost.exe started
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:23:00] DiagnoticsPlugin started.
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:23:00] DiagnoticsPlugin now waiting on events "DiagnosticPlugin-ShutdownEvent", "DiagnosticPlugin-TotalShutdownEvent" or "DiagnosticPlugin-RestartEvent".
+DiagnosticsPlugin.exe Error: 0 : [2024/4/15 4:23:00] Microsoft.Cis.Monitoring.Query.QueryException: ErrorFail
+   在 Microsoft.Cis.Monitoring.Query.QueryLocalTable..ctor(String TableName, String TablePath)
+   在 ApplicationInsightsExtension.MATableReader.ReadTableRecords(String tableName, String tablePath, DateTime startTime, DateTime endTime)
+   在 Microsoft.Azure.Plugins.Diagnostics.dll.MAStatusWriter.UpdateStatusReport(Object sender, ElapsedEventArgs e)
+DiagnosticsPlugin.exe Error: 0 : [2024/4/15 4:23:30] Microsoft.Cis.Monitoring.Query.QueryException: ErrorFail
+   在 Microsoft.Cis.Monitoring.Query.QueryLocalTable..ctor(String TableName, String TablePath)
+   在 ApplicationInsightsExtension.MATableReader.ReadTableRecords(String tableName, String tablePath, DateTime startTime, DateTime endTime)
+   在 Microsoft.Azure.Plugins.Diagnostics.dll.MAStatusWriter.UpdateStatusReport(Object sender, ElapsedEventArgs e)
+DiagnosticsPlugin.exe Information: 0 : [2024/4/15 4:24:00] Failed to update IIS Directory state in directory monitor
+检索 COM 类工厂中 CLSID 为 {2B72133B-3F5B-4602-8952-803546CE3344} 的组件失败，原因是出现以下错误: 80040154 没有注册类 (异常来自 HRESULT:0x80040154 (REGDB_E_CLASSNOTREG))。
+DiagnosticsPlugin.exe Error: 0 : [2024/4/15 4:24:00] Microsoft.Cis.Monitoring.Query.QueryException: ErrorFail
+   在 Microsoft.Cis.Monitoring.Query.QueryLocalTable..ctor(String TableName, String TablePath)
+   在 ApplicationInsightsExtension.MATableReader.ReadTableRecords(String tableName, String tablePath, DateTime startTime, DateTime endTime)
+   在 Microsoft.Azure.Plugins.Diagnostics.dll.MAStatusWriter.UpdateStatusReport(Object sender, ElapsedEventArgs e)
+DiagnosticsPlugin.exe Error: 0 : [2024/4/15 4:24:30] Microsoft.Cis.Monitoring.Query.QueryException: ErrorFail
+   在 Microsoft.Cis.Monitoring.Query.QueryLocalTable..ctor(String TableName, String TablePath)
+   在 ApplicationInsightsExtension.MATableReader.ReadTableRecords(String tableName, String tablePath, DateTime startTime, DateTime endTime)
+   在 Microsoft.Azure.Plugins.Diagnostics.dll.MAStatusWriter.UpdateStatusReport(Object sender, ElapsedEventArgs e)

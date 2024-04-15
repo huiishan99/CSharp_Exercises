@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "CloudHelloWorld", "CloudHelloWorld.ccproj", "{A9DCF313-04CE-4220-816B-66B2BFE25371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHello", "SayHello\SayHello.csproj", "{26057270-666D-40E5-BB7C-6113DBF3F424}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9DCF313-04CE-4220-816B-66B2BFE25371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DCF313-04CE-4220-816B-66B2BFE25371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DCF313-04CE-4220-816B-66B2BFE25371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DCF313-04CE-4220-816B-66B2BFE25371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26057270-666D-40E5-BB7C-6113DBF3F424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26057270-666D-40E5-BB7C-6113DBF3F424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26057270-666D-40E5-BB7C-6113DBF3F424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26057270-666D-40E5-BB7C-6113DBF3F424}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80241EE9-A53B-4D3E-9DB1-A9D2865C157B}
+	EndGlobalSection
+EndGlobal

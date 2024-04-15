@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\WcfHelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A10624-0042-4D2E-9AC2-B64E3A00BE75}|WcfHelloWorld.csproj|c:\\users\\huishan\\documents\\github\\csharpexercises\\wcfhelloworld\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A10624-0042-4D2E-9AC2-B64E3A00BE75}|WcfHelloWorld.csproj|solutionrelative:service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A10624-0042-4D2E-9AC2-B64E3A00BE75}|WcfHelloWorld.csproj|c:\\users\\huishan\\documents\\github\\csharpexercises\\wcfhelloworld\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A10624-0042-4D2E-9AC2-B64E3A00BE75}|WcfHelloWorld.csproj|solutionrelative:iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\WcfHelloWorld\\IService1.cs",
+              "RelativeDocumentMoniker": "IService1.cs",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\WcfHelloWorld\\IService1.cs",
+              "RelativeToolTip": "IService1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T04:30:29.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\WcfHelloWorld\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "Service1.svc.cs",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\WcfHelloWorld\\Service1.svc.cs",
+              "RelativeToolTip": "Service1.svc.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T04:29:50.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

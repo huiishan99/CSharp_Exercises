@@ -1,0 +1,7 @@
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WcfHelloWorld\obj\Debug\WcfHelloWorld.csproj.AssemblyReference.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WcfHelloWorld\obj\Debug\WcfHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WcfHelloWorld\bin\WcfHelloWorld.dll.config
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WcfHelloWorld\bin\WcfHelloWorld.dll
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WcfHelloWorld\bin\WcfHelloWorld.pdb
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WcfHelloWorld\obj\Debug\WcfHelloWorld.dll
+C:\Users\HuiShan\Documents\GitHub\CSharpExercises\WcfHelloWorld\obj\Debug\WcfHelloWorld.pdb

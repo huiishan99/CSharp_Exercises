@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\CloudHelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26057270-666D-40E5-BB7C-6113DBF3F424}|SayHello\\SayHello.csproj|c:\\users\\huishan\\documents\\github\\csharpexercises\\cloudhelloworld\\sayhello\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26057270-666D-40E5-BB7C-6113DBF3F424}|SayHello\\SayHello.csproj|solutionrelative:sayhello\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26057270-666D-40E5-BB7C-6113DBF3F424}|SayHello\\SayHello.csproj|c:\\users\\huishan\\documents\\github\\csharpexercises\\cloudhelloworld\\sayhello\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26057270-666D-40E5-BB7C-6113DBF3F424}|SayHello\\SayHello.csproj|solutionrelative:sayhello\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\CloudHelloWorld\\SayHello\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SayHello\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\CloudHelloWorld\\SayHello\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SayHello\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T04:21:10.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\CloudHelloWorld\\SayHello\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SayHello\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\CSharpExercises\\CloudHelloWorld\\SayHello\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SayHello\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T04:20:50.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
